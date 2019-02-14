@@ -22,5 +22,10 @@
     "webpack": "^4.28.1",
     "webpack-cli": "^3.2.1",
     "webpack-dev-server": "^3.1.14"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:mrodrigochaves/app-contacts.git",
+  "author": "Marcio Rodrigo <marciorodrigosp@gmail.com>",
+  "license": "MIT",
+  "description": "Project of Nanodegree Web Front-End Advanced"
 }
