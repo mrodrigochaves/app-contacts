@@ -2,7 +2,9 @@
 
 This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-## Project Setup
+* Following is step one (01) for uploading the application, and step two (02) for uploading the server.
+
+## 1 .Project Setup
 
 1. Clone the Project - `git clone https://github.com/udacity/reactnd-contacts-complete.git`
 2. Go into the directory where the project now lives - `cd reactnd-contacts-complete`
@@ -11,7 +13,7 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 
 
-# Server for Contacts Project
+# 2. Server for Contacts Project
 
 This is a backend server for the Contacts app in-class project.
 
